@@ -15,4 +15,4 @@ public:
         }
         return dp[n];
     }
-};' > Tribonacci.cpp
+};' > 1137. N-th Tribonacci Number
