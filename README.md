@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ankita0335/May2024Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ankita0335/May2024Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
 # Math
 |  |
 | ------- |
@@ -38,3 +39,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ankita0335/May2024Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ankita0335/May2024Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
