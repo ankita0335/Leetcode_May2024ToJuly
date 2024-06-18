@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ankita0335/May2024Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ankita0335/May2024Leetcode/tree/master/0344-reverse-string) |
+| [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankita0335/May2024Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/ankita0335/May2024Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankita0335/May2024Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankita0335/May2024Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ankita0335/May2024Leetcode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/ankita0335/May2024Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ankita0335/May2024Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ankita0335/May2024Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankita0335/May2024Leetcode/tree/master/1217-relative-sort-array) |
@@ -52,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ankita0335/May2024Leetcode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/ankita0335/May2024Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankita0335/May2024Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankita0335/May2024Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -64,3 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ankita0335/May2024Leetcode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
