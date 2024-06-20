@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/ankita0335/May2024Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankita0335/May2024Leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankita0335/May2024Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankita0335/May2024Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/ankita0335/May2024Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankita0335/May2024Leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankita0335/May2024Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankita0335/May2024Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
@@ -72,3 +74,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/ankita0335/May2024Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankita0335/May2024Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
