@@ -10,24 +10,24 @@
  * };
  */
 class Solution {
-public:
-    vector<int> vals;
-    TreeNode* balanceBST(TreeNode* root) {
-        trav(root);
-        return buildBST(0,vals.size()-1);
+    vector<TreeNode*>inOrder;
+    void inOrderTree(TreeNode* root){
+        if(!root)return;
+        inOrderTree(root->left);
+        inOrder.push_back(root);
+        inOrderTree(root->right);
     }
-    void trav(TreeNode* root){
-        if(root == nullptr)return;
-        trav(root->left);
-        vals.push_back(root->val);
-        trav(root->right);
-    }
-    TreeNode* buildBST(int l, int r){
-        if(l>r)return nullptr;
-        int mid = (l+r)/2;
-        TreeNode *root = new TreeNode(vals[mid]);
-        root->left = buildBST(l,mid-1);
-        root->right = buildBST(mid+1,r);
+    TreeNode* balanced(int start,int end){
+        if(start>end)return NULL;
+        int mid=(start+end)/2;
+        TreeNode* root=inOrder[mid];
+        root->left=balanced(start,mid-1);
+        root->right=balanced(mid+1,end);
         return root;
+    }
+public:
+    TreeNode* balanceBST(TreeNode* root) {
+        inOrderTree(root);
+        return balanced(0,inOrder.size()-1);
     }
 };
