@@ -123,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankita0335/May2024Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/ankita0335/May2024Leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
