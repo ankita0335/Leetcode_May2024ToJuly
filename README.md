@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankita0335/May2024Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -141,4 +142,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
