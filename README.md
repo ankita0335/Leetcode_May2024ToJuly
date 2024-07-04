@@ -152,9 +152,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
