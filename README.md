@@ -196,11 +196,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ankita0335/May2024Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
