@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankita0335/May2024Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ankita0335/May2024Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -214,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ankita0335/May2024Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
