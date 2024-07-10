@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1961-maximum-ice-cream-bars](https://github.com/ankita0335/May2024Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankita0335/May2024Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Graph
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1961-maximum-ice-cream-bars](https://github.com/ankita0335/May2024Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankita0335/May2024Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/ankita0335/May2024Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankita0335/May2024Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/ankita0335/May2024Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
