@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/ankita0335/May2024Leetcode/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/ankita0335/May2024Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ankita0335/May2024Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankita0335/May2024Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/ankita0335/May2024Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ankita0335/May2024Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Prefix Sum
 |  |
