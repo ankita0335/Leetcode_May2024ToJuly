@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankita0335/May2024Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankita0335/May2024Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankita0335/May2024Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/ankita0335/May2024Leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Prefix Sum
