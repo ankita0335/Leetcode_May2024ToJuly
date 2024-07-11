@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1036-rotting-oranges](https://github.com/ankita0335/May2024Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankita0335/May2024Leetcode/tree/master/1073-number-of-enclaves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/May2024Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ankita0335/May2024Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankita0335/May2024Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ankita0335/May2024Leetcode/tree/master/1720-crawler-log-folder) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/May2024Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankita0335/May2024Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/May2024Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0813-all-paths-from-source-to-target](https://github.com/ankita0335/May2024Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1073-number-of-enclaves](https://github.com/ankita0335/May2024Leetcode/tree/master/1073-number-of-enclaves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/May2024Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,12 +185,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/May2024Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ankita0335/May2024Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/May2024Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankita0335/May2024Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankita0335/May2024Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ankita0335/May2024Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ankita0335/May2024Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
